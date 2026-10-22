@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Kişisel Kart",
+    "slug": "Hafta3_2Lab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "assets\\catIcon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE"
+        
+      }
+    },
+    "web": {
+     
+    }
+  }
+}

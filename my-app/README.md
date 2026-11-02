@@ -1,56 +1,79 @@
-# Welcome to your Expo app 👋
+# 📱 Expo Router Starter & TypeScript Şablonu (`my-app`)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Bu proje, **Expo SDK** ve **Expo Router** altyapısıyla geliştirilmiş, TypeScript destekli, çift sekmeli (Tabs), açık/koyu tema (Dark/Light mode) ve evrensel platform (iOS, Android, Web) uyumluluğuna sahip modern bir başlangıç şablonudur.
 
-## Get started
+---
 
-1. Install dependencies
+## 📸 Ekran Görüntüleri
 
+> **Not:** Ekran görüntülerinizi `my-app/screenshots/` klasörüne aşağıdaki dosya adlarıyla ekleyebilirsiniz.
+
+| 1. Ana Sayfa (Home) | 2. Keşfet Sayfası (Explore) |
+| :---: | :---: |
+| <img src="./screenshots/1-home-screen.png" width="300" alt="Home Ekranı" /><br><sub><b>Şekil 1: Animasyonlu İkon ve Başlangıç Ekranı</b></sub> | <img src="./screenshots/2-explore-screen.png" width="300" alt="Explore Ekranı" /><br><sub><b>Şekil 2: Akordeon ve Tema Bileşenleri</b></sub> |
+
+---
+
+## 🚀 Proje Özellikleri
+
+- **Dosya Tabanlı Sekme Navigasyonu (`app-tabs.tsx`):**
+  - 🏠 **Home (`src/app/index.tsx`):** Karşılama ekranı, animasyonlu ikon ve geliştirici ipuçları.
+  - 🧭 **Explore (`src/app/explore.tsx`):** Açılır-kapanır (`Collapsible`) içerikler ve platform rehberleri.
+- **Tip Güvenliği (TypeScript):** Tam tip tanımlamaları (`tsconfig.json`, `expo-env.d.ts`).
+- **Tema Desteği:** `useColorScheme` kancası ile sistem temasını (Açık / Koyu) otomatik algılama ve tema renk paleti (`theme.ts`).
+- **Mikro Animasyonlar:** Web ve mobil için optimize edilmiş animasyonlu sembol bileşenleri (`animated-icon.tsx`, `animated-icon.web.tsx`).
+- **Evrensel Web Desteği:** `@expo/metro-runtime` ile modern web çıktısı.
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+- **Expo SDK:** `~57.0.28`
+- **React & React Native:** `0.86.3` / `19.2.3`
+- **TypeScript:** `^5.3.3`
+- **Expo Router:** Sekmeli ve evrensel yönlendirme
+- **Lucide / Vector Icons:** Şık arayüz ikonları
+
+---
+
+## 📂 Dosya Yapısı
+
+```
+my-app/
+├── src/
+│   ├── app/                    # Expo Router rota ekranları
+│   │   ├── _layout.tsx         # Kök ve sekme düzeni
+│   │   ├── index.tsx           # Ana sayfa (Home)
+│   │   └── explore.tsx         # Keşfet sayfası (Explore)
+│   ├── components/             # Yeniden kullanılabilir UI bileşenleri
+│   │   ├── animated-icon.tsx
+│   │   ├── themed-text.tsx
+│   │   ├── themed-view.tsx
+│   │   └── ui/collapsible.tsx
+│   ├── constants/              # Tema ve renk sabitleri
+│   └── hooks/                  # Tema ve renk şeması kancaları
+├── assets/                     # İkonlar ve logolar
+├── screenshots/                # Ekran görüntüleri klasörü
+│   └── .gitkeep
+├── package.json
+└── README.md
+```
+
+---
+
+## 💻 Kurulum ve Çalıştırma
+
+1. **Dizine geçin:**
+   ```bash
+   cd my-app
+   ```
+
+2. **Bağımlılıkları kurun:**
    ```bash
    npm install
    ```
 
-2. Start the app
-
+3. **Uygulamayı başlatın:**
    ```bash
    npx expo start
    ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.

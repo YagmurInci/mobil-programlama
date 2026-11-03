@@ -10,7 +10,7 @@ Bu proje, **Mobil Programlama** dersi 3. hafta ikinci laboratuvar çalışması 
 
 | Gelişmiş Profil Kartı |
 | :---: |
-| <img src="./screenshots/gelismis-profil.png" width="320" alt="Hafta 3_2 Gelişmiş Profil Kartı Ekran Görüntüsü" /><br><sub><b>Şekil 1: Gelişmiş Profil ve Menü Kartı Arayüzü</b></sub> |
+| <img src="./screenshots/gelismis-profil.jpeg" width="320" alt="Hafta 3_2 Gelişmiş Profil Kartı Ekran Görüntüsü" /><br><sub><b>Şekil 1: Gelişmiş Profil ve Menü Kartı Arayüzü</b></sub> |
 
 ---
 

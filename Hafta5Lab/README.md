@@ -10,7 +10,7 @@ Bu proje, **Mobil Programlama** dersi 5. hafta laboratuvar çalışması kapsam�
 
 | 1. Form & Canlı Liste | 2. Talep Detay Modalı | 3. Uzun Basma Silme Onayı |
 | :---: | :---: | :---: |
-| <img src="./screenshots/1-form-ve-liste.png" width="240" alt="Form ve Talep Listesi" /><br><sub><b>Şekil 1: Giriş Formu & Talep Listesi</b></sub> | <img src="./screenshots/2-talep-detay-modal.png" width="240" alt="Talep Detay Modalı" /><br><sub><b>Şekil 2: Modal ile Durum Değiştirme</b></sub> | <img src="./screenshots/3-kayit-silme-onayi.png" width="240" alt="Silme Onay Diyaloğu" /><br><sub><b>Şekil 3: Uzun Basma ile Silme Uyarısı</b></sub> |
+| <img src="./screenshots/form-ve-liste.jpeg" width="240" alt="Form ve Talep Listesi" /><br><sub><b>Şekil 1: Giriş Formu & Talep Listesi</b></sub> | <img src="./screenshots/talep-detay-modal.jpeg" width="240" alt="Talep Detay Modalı" /><br><sub><b>Şekil 2: Modal ile Durum Değiştirme</b></sub> | <img src="./screenshots/kayit-silme-onayi.jpeg" width="240" alt="Silme Onay Diyaloğu" /><br><sub><b>Şekil 3: Uzun Basma ile Silme Uyarısı</b></sub> |
 
 ---
 

@@ -10,7 +10,7 @@ Bu proje, **Mobil Programlama** dersi 4. hafta ikinci laboratuvar çalışması 
 
 | 1. Arıza Bildirim Formu | 2. Oluşturulan Talep Özeti |
 | :---: | :---: |
-| <img src="./screenshots/1-ariza-bildirim-formu.png" width="320" alt="Arıza Bildirim Formu Arayüzü" /><br><sub><b>Şekil 1: Giriş Alanları, Kategori & Öncelik Seçimi</b></sub> | <img src="./screenshots/2-talep-ozeti-karti.png" width="320" alt="Oluşturulan Talep Özeti Kartı" /><br><sub><b>Şekil 2: Başarılı Gönderim Sonrası Son Talep Kartı</b></sub> |
+| <img src="./screenshots/ariza-bildirim-formu.png" width="320" alt="Arıza Bildirim Formu Arayüzü" /><br><sub><b>Şekil 1: Giriş Alanları, Kategori & Öncelik Seçimi</b></sub> | <img src="./screenshots/talep-ozeti-karti.png" width="320" alt="Oluşturulan Talep Özeti Kartı" /><br><sub><b>Şekil 2: Başarılı Gönderim Sonrası Son Talep Kartı</b></sub> |
 
 ---
 

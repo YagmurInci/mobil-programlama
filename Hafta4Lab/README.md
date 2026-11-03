@@ -10,7 +10,7 @@ Bu proje, **Mobil Programlama** dersi 4. hafta laboratuvar çalışması kapsam�
 
 | 1. Teknik Destek Paneli | 2. Filtreleme & Durum Güncelleme |
 | :---: | :---: |
-| <img src="./screenshots/1-teknik-destek-paneli.jpeg" width="320" alt="Teknik Destek Paneli Ana Görünüm" /><br><sub><b>Şekil 1: Özet Kartları ve Talep Listesi</b></sub> | <img src="./screenshots/2-filtreleme-ve-durum.jpeg" width="320" alt="Filtreleme ve Durum Değişikliği" /><br><sub><b>Şekil 2: Filtrelenmiş Talepler ve Buton Etkileşimi</b></sub> |
+| <img src="./screenshots/teknik-destek-paneli.jpeg" width="320" alt="Teknik Destek Paneli Ana Görünüm" /><br><sub><b>Şekil 1: Özet Kartları ve Talep Listesi</b></sub> | <img src="./screenshots/filtreleme-ve-durum.jpeg" width="320" alt="Filtreleme ve Durum Değişikliği" /><br><sub><b>Şekil 2: Filtrelenmiş Talepler ve Buton Etkileşimi</b></sub> |
 
 ---
 

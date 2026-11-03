@@ -27,28 +27,28 @@ Geliştirici: **[Yağmur İnci](https://github.com/YagmurInci)**
 ### 📌 1. Hafta 3: Profil Kartı Uygulamaları
 | Hafta 3 Temel Profil | Hafta 3 Gelişmiş Profil & Menü |
 | :---: | :---: |
-| <img src="./Hafta3Lab/screenshots/profil-karti.png" width="280" alt="Hafta 3 Profil Kartı" /><br><sub><b>Hafta 3 Lab: Kişisel Profil Kartı</b></sub> | <img src="./Hafta3_2Lab/screenshots/gelismis-profil.png" width="280" alt="Hafta 3_2 Gelişmiş Profil" /><br><sub><b>Hafta 3 (2) Lab: Buton Grubu & Alt Menü</b></sub> |
+| <img src="./Hafta3Lab/screenshots/profil-karti.jpeg" width="280" alt="Hafta 3 Profil Kartı" /><br><sub><b>Hafta 3 Lab: Kişisel Profil Kartı</b></sub> | <img src="./Hafta3_2Lab/screenshots/gelismis-profil.jpeg" width="280" alt="Hafta 3_2 Gelişmiş Profil" /><br><sub><b>Hafta 3 (2) Lab: Buton Grubu & Alt Menü</b></sub> |
 
 ---
 
 ### 📌 2. Hafta 4: Destek Paneli ve Form Yönetimi
 | Hafta 4 Teknik Destek Paneli | Hafta 4 (2) Arıza Bildirim Formu |
 | :---: | :---: |
-| <img src="./Hafta4Lab/screenshots/1-teknik-destek-paneli.png" width="280" alt="Hafta 4 Destek Paneli" /><br><sub><b>Hafta 4 Lab: FlatList & KPI Kartları</b></sub> | <img src="./Hafta4_2Lab/screenshots/1-ariza-bildirim-formu.png" width="280" alt="Hafta 4_2 Arıza Formu" /><br><sub><b>Hafta 4 (2) Lab: Form Alanları & Switch</b></sub> |
+| <img src="./Hafta4Lab/screenshots/teknik-destek-paneli.jpeg" width="280" alt="Hafta 4 Destek Paneli" /><br><sub><b>Hafta 4 Lab: FlatList & KPI Kartları</b></sub> | <img src="./Hafta4_2Lab/screenshots/ariza-bildirim-formu.jpeg" width="280" alt="Hafta 4_2 Arıza Formu" /><br><sub><b>Hafta 4 (2) Lab: Form Alanları & Switch</b></sub> |
 
 ---
 
 ### 📌 3. Hafta 5: Canlı İstatistik ve Modal Yönetimi
 | Hafta 5 Liste & Canlı İstatistik | Hafta 5 Detay Modalı | Hafta 5 Uzun Basma ile Silme |
 | :---: | :---: | :---: |
-| <img src="./Hafta5Lab/screenshots/1-form-ve-liste.png" width="240" alt="Hafta 5 Liste" /><br><sub><b>Form & Canlı Sayaç</b></sub> | <img src="./Hafta5Lab/screenshots/2-talep-detay-modal.png" width="240" alt="Hafta 5 Detay Modalı" /><br><sub><b>Detay & Durum Değiştirme</b></sub> | <img src="./Hafta5Lab/screenshots/3-kayit-silme-onayi.png" width="240" alt="Hafta 5 Silme Onayı" /><br><sub><b>Uzun Basma Silme Uyarısı</b></sub> |
+| <img src="./Hafta5Lab/screenshots/form-ve-liste.jpeg" width="240" alt="Hafta 5 Liste" /><br><sub><b>Form & Canlı Sayaç</b></sub> | <img src="./Hafta5Lab/screenshots/talep-detay-modal.jpeg" width="240" alt="Hafta 5 Detay Modalı" /><br><sub><b>Detay & Durum Değiştirme</b></sub> | <img src="./Hafta5Lab/screenshots/kayit-silme-onayi.jpeg" width="240" alt="Hafta 5 Silme Onayı" /><br><sub><b>Uzun Basma Silme Uyarısı</b></sub> |
 
 ---
 
 ### 📌 4. Hafta 6: Expo Router Çok Sayfalı Modüller
 | 1. Ana Menü | 2. Arıza Takip Sistemi | 3. Mini Ürün Kataloğu | 4. Öğrenci Ders Programı |
 | :---: | :---: | :---: | :---: |
-| <img src="./Hafta6Lab/screenshots/1-ana-menu.png" width="200" alt="Ana Menü" /><br><sub><b>Hafta 6 Ana Menü</b></sub> | <img src="./Hafta6Lab/screenshots/2-ariza-listesi.png" width="200" alt="Arıza Takip" /><br><sub><b>Arıza Listesi & Detay</b></sub> | <img src="./Hafta6Lab/screenshots/4-urun-katalogu.png" width="200" alt="Ürün Kataloğu" /><br><sub><b>Ürün Kataloğu & Detay</b></sub> | <img src="./Hafta6Lab/screenshots/6-ders-programi.png" width="200" alt="Ders Programı" /><br><sub><b>Ders Programı & Detay</b></sub> |
+| <img src="./Hafta6Lab/screenshots/ana-menu.jpeg" width="200" alt="Ana Menü" /><br><sub><b>Hafta 6 Ana Menü</b></sub> | <img src="./Hafta6Lab/screenshots/ariza-listesi.jpeg" width="200" alt="Arıza Takip" /><br><sub><b>Arıza Listesi & Detay</b></sub> | <img src="./Hafta6Lab/screenshots/urun-katalogu.jpeg" width="200" alt="Ürün Kataloğu" /><br><sub><b>Ürün Kataloğu & Detay</b></sub> | <img src="./Hafta6Lab/screenshots/ders-programi.jpeg" width="200" alt="Ders Programı" /><br><sub><b>Ders Programı & Detay</b></sub> |
 
 ---
 

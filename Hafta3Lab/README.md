@@ -10,7 +10,7 @@ Bu proje, **Mobil Programlama** dersi 3. hafta laboratuvar çalışması kapsam�
 
 | Kişisel Profil Kartı |
 | :---: |
-| <img src="./screenshots/profil-karti.png" width="320" alt="Hafta 3 Profil Kartı Ekran Görüntüsü" /><br><sub><b>Şekil 1: Profil Kartı Arayüzü</b></sub> |
+| <img src="C:\Users\USER\Desktop\profil-karti.jpeg" width="320" alt="Hafta 3 Profil Kartı Ekran Görüntüsü" /><br><sub><b>Şekil 1: Profil Kartı Arayüzü</b></sub> |
 
 ---
 

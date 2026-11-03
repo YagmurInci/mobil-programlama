@@ -11,22 +11,22 @@ Bu proje, **Mobil Programlama** dersi 6. hafta laboratuvar çalışması kapsam�
 ### 1. Ana Menü
 | Ana Menü Arayüzü |
 | :---: |
-| <img src="./screenshots/1-ana-menu.png" width="320" alt="Hafta 6 Ana Menü" /><br><sub><b>Şekil 1: 3 Laboratuvar Uygulamasına Geçiş Sağlayan Ana Menü</b></sub> |
+| <img src="./screenshots/ana-menu.jpeg" width="320" alt="Hafta 6 Ana Menü" /><br><sub><b>Şekil 1: 3 Laboratuvar Uygulamasına Geçiş Sağlayan Ana Menü</b></sub> |
 
 ### 2. Uygulama 1: Arıza Takip Sistemi
 | Arıza Listesi | Arıza Detay Sayfası |
 | :---: | :---: |
-| <img src="./screenshots/2-ariza-listesi.png" width="300" alt="Arıza Listesi Ekranı" /><br><sub><b>Şekil 2.1: Bildirilen Arızalar Listesi</b></sub> | <img src="./screenshots/3-ariza-detay.png" width="300" alt="Arıza Detayı Ekranı" /><br><sub><b>Şekil 2.2: Dinamik Arıza Detayı & Durum Rozeti</b></sub> |
+| <img src="./screenshots/ariza-listesi.jpeg" width="300" alt="Arıza Listesi Ekranı" /><br><sub><b>Şekil 2.1: Bildirilen Arızalar Listesi</b></sub> | <img src="./screenshots/ariza-detay.jpeg" width="300" alt="Arıza Detayı Ekranı" /><br><sub><b>Şekil 2.2: Dinamik Arıza Detayı & Durum Rozeti</b></sub> |
 
 ### 3. Uygulama 2: Mini Ürün Kataloğu
 | Ürün Kataloğu | Ürün Detay Sayfası |
 | :---: | :---: |
-| <img src="./screenshots/4-urun-katalogu.png" width="300" alt="Ürün Kataloğu Ekranı" /><br><sub><b>Şekil 3.1: Teknoloji Ürünleri Kataloğu</b></sub> | <img src="./screenshots/5-urun-detay.png" width="300" alt="Ürün Detayı Ekranı" /><br><sub><b>Şekil 3.2: Ürün Fiyat, Stok ve Özellik Detayı</b></sub> |
+| <img src="./screenshots/urun-katalogu.jpeg" width="300" alt="Ürün Kataloğu Ekranı" /><br><sub><b>Şekil 3.1: Teknoloji Ürünleri Kataloğu</b></sub> | <img src="./screenshots/urun-detay.jpeg" width="300" alt="Ürün Detayı Ekranı" /><br><sub><b>Şekil 3.2: Ürün Fiyat, Stok ve Özellik Detayı</b></sub> |
 
 ### 4. Uygulama 3: Öğrenci Ders Programı
 | Ders Programı | Ders Detay Sayfası |
 | :---: | :---: |
-| <img src="./screenshots/6-ders-programi.png" width="300" alt="Ders Programı Ekranı" /><br><sub><b>Şekil 4.1: Haftalık Ders Programı</b></sub> | <img src="./screenshots/7-ders-detay.png" width="300" alt="Ders Detayı Ekranı" /><br><sub><b>Şekil 4.2: Derslik, Saat ve Öğretim Görevlisi Detayı</b></sub> |
+| <img src="./screenshots/ders-programi.jpeg" width="300" alt="Ders Programı Ekranı" /><br><sub><b>Şekil 4.1: Haftalık Ders Programı</b></sub> | <img src="./screenshots/ders-detay.jpeg" width="300" alt="Ders Detayı Ekranı" /><br><sub><b>Şekil 4.2: Derslik, Saat ve Öğretim Görevlisi Detayı</b></sub> |
 
 ---
 

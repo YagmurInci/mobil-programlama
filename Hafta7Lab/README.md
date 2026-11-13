@@ -2,6 +2,8 @@
 
 Bu proje, **Mobil Programlama** dersi 7. hafta laboratuvar çalışması (Mini Görev) kapsamında geliştirilmiştir. Derste oluşturulan **özel tema bileşenleri** (`ThemedView`, `ThemedLogo`, `ThemedText`, `ThemedCard`, `Spacer`) gerçek bir sayfa üzerinde bir araya getirilerek, cihazın **açık / koyu temasına** göre kendiliğinden uyum sağlayan bir **"Günlük Planım"** ekranı hazırlanmıştır.
 
+Geliştirici: **[Yağmur İnci](https://github.com/YagmurInci)**
+
 ---
 
 ## 📸 Ekran Görüntüleri

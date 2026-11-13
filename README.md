@@ -16,6 +16,7 @@ Geliştirici: **[Yağmur İnci](https://github.com/YagmurInci)**
 | **[Hafta 4 (2) Lab](./Hafta4_2Lab/)** | Arıza Bildirim Formu | Giriş alanları, çok satırlı metin, switch anahtarı, doğrulama ve dinamik sonuç kartı. | TextInput, Switch, ScrollView, Alert | ✅ Tamamlandı |
 | **[Hafta 5 Lab](./Hafta5Lab/)** | Arıza Yönetim & Canlı İstatistik | Canlı talep istatistiği, modal ile detay inceleme & durum değiştirme, uzun basma ile silme. | Modal, onLongPress, Realtime Stats | ✅ Tamamlandı |
 | **[Hafta 6 Lab](./Hafta6Lab/)** | Çok Sayfalı Expo Router Uygulaması | Dosya tabanlı Stack navigasyon ile Arıza Takip, Ürün Kataloğu ve Ders Programı modülleri. | Expo Router, Stack, [id] Rotaları | ✅ Tamamlandı |
+| **[Hafta 7 Lab](./Hafta7Lab/)** | Tema Uyumlu Günlük Plan Ekranı | Açık/koyu temaya göre kendiliğinden değişen özel bileşenlerle hazırlanmış günlük plan ekranı. | useColorScheme, Themed Bileşenler, Özel Hook | ✅ Tamamlandı |
 | **[my-app](./my-app/)** | Expo Router & TypeScript Şablonu | TypeScript destekli, çift sekmeli, açık/koyu tema uyumlu başlangıç şablonu. | TypeScript, Expo Tabs, Themes | ✅ Tamamlandı |
 
 ---
@@ -52,6 +53,13 @@ Geliştirici: **[Yağmur İnci](https://github.com/YagmurInci)**
 
 ---
 
+### 📌 5. Hafta 7: Tema Uyumlu Günlük Plan Ekranı
+| Koyu Tema (Dark Mode) | Açık Tema (Light Mode) |
+| :---: | :---: |
+| <img src="./Hafta7Lab/screenshots/gunluk-plan-koyu-tema.jpeg" width="280" alt="Hafta 7 Koyu Tema" /><br><sub><b>Hafta 7 Lab: Koyu Temada Günlük Plan</b></sub> | <img src="./Hafta7Lab/screenshots/gunluk-plan-acik-tema.jpeg" width="280" alt="Hafta 7 Açık Tema" /><br><sub><b>Hafta 7 Lab: Açık Temada Günlük Plan</b></sub> |
+
+---
+
 ## 🔍 Projelerin Detaylı İncelemesi
 
 ### 🔹 [Hafta 3 Lab: Kişisel Profil Kartı](./Hafta3Lab/)
@@ -83,6 +91,10 @@ Geliştirici: **[Yağmur İnci](https://github.com/YagmurInci)**
   2. **Mini Ürün Kataloğu (`/urun`):** Teknoloji ürünleri ve detay sayfası.
   3. **Öğrenci Ders Programı (`/ders`):** Haftalık ders takvimi ve detay sayfası.
 - **Teknik Detaylar:** `router.push()`, `router.back()`, `useLocalSearchParams()`, `app/_layout.jsx` üzerinde özel bordo başlık stili (`#480507`).
+
+### 🔹 [Hafta 7 Lab: Tema Uyumlu Günlük Plan Ekranı](./Hafta7Lab/)
+- **Özet:** Derste yazılan `ThemedView`, `ThemedText`, `ThemedCard`, `ThemedLogo` ve `Spacer` bileşenleriyle hazırlanmış, logo, başlık, "Bugünün Önceliği" kartı ve günlük görev kartlarından oluşan plan ekranı.
+- **Teknik Detaylar:** `constants/Colors.js` içinde açık/koyu renk paleti, `useColorScheme()` tabanlı özel `useTheme` hook'u, görevlerin diziden `map()` ile karta dönüştürülmesi ve `app.json` üzerindeki `userInterfaceStyle` ayarı ile dark mode testi.
 
 ### 🔹 [my-app: Expo Router & TypeScript Şablonu](./my-app/)
 - **Özet:** Modern sekmeli (Tabs) yönlendirme yapısı, açık/koyu tema kontrolü ve TypeScript tip güvenliği.

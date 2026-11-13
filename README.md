@@ -17,6 +17,7 @@ Geliştirici: **[Yağmur İnci](https://github.com/YagmurInci)**
 | **[Hafta 5 Lab](./Hafta5Lab/)** | Arıza Yönetim & Canlı İstatistik | Canlı talep istatistiği, modal ile detay inceleme & durum değiştirme, uzun basma ile silme. | Modal, onLongPress, Realtime Stats | ✅ Tamamlandı |
 | **[Hafta 6 Lab](./Hafta6Lab/)** | Çok Sayfalı Expo Router Uygulaması | Dosya tabanlı Stack navigasyon ile Arıza Takip, Ürün Kataloğu ve Ders Programı modülleri. | Expo Router, Stack, [id] Rotaları | ✅ Tamamlandı |
 | **[Hafta 7 Lab](./Hafta7Lab/)** | Tema Uyumlu Günlük Plan Ekranı | Açık/koyu temaya göre kendiliğinden değişen özel bileşenlerle hazırlanmış günlük plan ekranı. | useColorScheme, Themed Bileşenler, Özel Hook | ✅ Tamamlandı |
+| **[Hafta 7 (2) Lab](./Hafta7_2Lab/)** | Kampüs Market Uygulaması | Ürün listesi, arama, ürün detayı ve ortak sepetten oluşan çok ekranlı alışveriş uygulaması. | Expo Router, Context API, FlatList, SafeAreaView | ✅ Tamamlandı |
 | **[my-app](./my-app/)** | Expo Router & TypeScript Şablonu | TypeScript destekli, çift sekmeli, açık/koyu tema uyumlu başlangıç şablonu. | TypeScript, Expo Tabs, Themes | ✅ Tamamlandı |
 
 ---
@@ -60,6 +61,13 @@ Geliştirici: **[Yağmur İnci](https://github.com/YagmurInci)**
 
 ---
 
+### 📌 6. Hafta 7 (2): Kampüs Market Uygulaması
+| Ürün Listesi & Arama | P101 Ürün Detayı | Ortak Sepet |
+| :---: | :---: | :---: |
+| <img src="./Hafta7_2Lab/screenshots/kampus-market-urun-listesi.jpeg" width="240" alt="Kampüs Market Ürün Listesi" /><br><sub><b>Ürün Listesi & Arama Kutusu</b></sub> | <img src="./Hafta7_2Lab/screenshots/kampus-market-urun-detay.jpeg" width="240" alt="Kampüs Market Ürün Detayı" /><br><sub><b>Detay & Adet Seçimi</b></sub> | <img src="./Hafta7_2Lab/screenshots/kampus-market-sepet.jpeg" width="240" alt="Kampüs Market Sepet" /><br><sub><b>Sepet & Toplam 3.200 TL</b></sub> |
+
+---
+
 ## 🔍 Projelerin Detaylı İncelemesi
 
 ### 🔹 [Hafta 3 Lab: Kişisel Profil Kartı](./Hafta3Lab/)
@@ -95,6 +103,10 @@ Geliştirici: **[Yağmur İnci](https://github.com/YagmurInci)**
 ### 🔹 [Hafta 7 Lab: Tema Uyumlu Günlük Plan Ekranı](./Hafta7Lab/)
 - **Özet:** Derste yazılan `ThemedView`, `ThemedText`, `ThemedCard`, `ThemedLogo` ve `Spacer` bileşenleriyle hazırlanmış, logo, başlık, "Bugünün Önceliği" kartı ve günlük görev kartlarından oluşan plan ekranı.
 - **Teknik Detaylar:** `constants/Colors.js` içinde açık/koyu renk paleti, `useColorScheme()` tabanlı özel `useTheme` hook'u, görevlerin diziden `map()` ile karta dönüştürülmesi ve `app.json` üzerindeki `userInterfaceStyle` ayarı ile dark mode testi.
+
+### 🔹 [Hafta 7 (2) Lab: Kampüs Market Uygulaması](./Hafta7_2Lab/)
+- **Özet:** Boş (blank) Expo şablonundan başlanıp Expo Router elle kurularak hazırlanmış alışveriş uygulaması. Üç ekran: ada göre aramalı **Ürünler** (`/`), kimliğe göre **Ürün detayı** (`/urun/[id]`) ve **Sepetim** (`/sepet`).
+- **Teknik Detaylar:** `createContext` + `useSepet` hook'u ile bütün ekranların paylaştığı ortak sepet (`sepeteEkle`, `adetArtir`, `adetAzalt`, `urunKaldir`, `sepetiBosalt`), stok sınırı kontrolü, `reduce` ile toplam adet / tutar hesabı, `FlatList` + `TextInput` araması ve `SafeAreaView` ile güvenli alan.
 
 ### 🔹 [my-app: Expo Router & TypeScript Şablonu](./my-app/)
 - **Özet:** Modern sekmeli (Tabs) yönlendirme yapısı, açık/koyu tema kontrolü ve TypeScript tip güvenliği.
